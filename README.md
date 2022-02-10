@@ -38,6 +38,9 @@ example input:
 output format:
 
 [result matrix entries]
+
 END1 [elapsed time of procedure 1]
+
 [result matrix entries]
+
 END2 [elapsed time of procedure 2]
