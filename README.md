@@ -16,14 +16,23 @@ Note: [] for clarity
 example input:
 
 3 5
+
 1 -2 3 4 5
+
 1 2 -3 4 5
+
 -1 2 3 4 5
+
 5 4
+
 -1 2 3 4
+
 1 -2 3 4
+
 1 2 -3 4
+
 1 2 3 -4
+
 -1 -2 -3 -4
 
 output format:
